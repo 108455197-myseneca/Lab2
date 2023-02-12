@@ -4,3 +4,9 @@ var2=20
 sum=$(($var1 + $var2))
 
 echo $sum
+
+def helloWorld():
+	print(‘Hello World’)
+
+
+helloWorld()
